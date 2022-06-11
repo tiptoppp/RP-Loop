@@ -9,10 +9,10 @@ The different problems I encountered during the test phase are :
  Solution : I have not found a solution to this problem for the moment but it can be solved by changing of lobby.
 ## Download
 Rockstar Games edition :
-[RP Loop 1.60](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60R)
+[RP Loop 1.60 - Rockstar Games](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60R)
 
 Steam edition :
-[RP Loop 1.60](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60S)
+[RP Loop 1.60 - Steam](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60S)
 ## Preview
  ![preview](https://user-images.githubusercontent.com/105000222/168490970-ecdcd309-aaeb-446b-a6ea-b19b2f3685f0.PNG)
  
