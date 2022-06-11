@@ -1,0 +1,16 @@
+C:\Users\Noa\Desktop\RP Loop\bin\Debug\RP Loop.exe.config
+C:\Users\Noa\Desktop\RP Loop\bin\Debug\RP Loop.exe
+C:\Users\Noa\Desktop\RP Loop\bin\Debug\RP Loop.pdb
+C:\Users\Noa\Desktop\RP Loop\bin\Debug\Memory.dll
+C:\Users\Noa\Desktop\RP Loop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Noa\Desktop\RP Loop\bin\Debug\Memory.xml
+C:\Users\Noa\Desktop\RP Loop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP Loop.csproj.AssemblyReference.cache
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP Loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP_Loop.Form1.resources
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP_Loop.Properties.Resources.resources
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP Loop.csproj.GenerateResource.cache
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP Loop.csproj.CoreCompileInputs.cache
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP Loop.csproj.CopyComplete
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP Loop.exe
+C:\Users\Noa\Desktop\RP Loop\obj\Debug\RP Loop.pdb
