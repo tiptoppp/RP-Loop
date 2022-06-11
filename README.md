@@ -18,4 +18,4 @@ Steam edition :
 ## PREVIEW
  ![preview](https://user-images.githubusercontent.com/105000222/168490970-ecdcd309-aaeb-446b-a6ea-b19b2f3685f0.PNG)
  
- https://www.youtube.com/watch?v=fBtN1YCOJzc
+ [![](https://user-images.githubusercontent.com/105000222/173208230-2f217aad-378a-49f1-a075-c0b3c10826d2.png)](https://www.youtube.com/watch?v=otCpY1jHV6I)
