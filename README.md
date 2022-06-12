@@ -1,5 +1,5 @@
 ## DESCRIPTION
-![rploop80](https://user-images.githubusercontent.com/105000222/173208110-63de27d0-5fb6-4c0c-9e0e-f18f18b6c1fe.png)
+![rploopx150](https://user-images.githubusercontent.com/105000222/173240289-8c232a22-b0e9-467e-a1c5-07154414e819.png)
 
 RP Loop is a small tool programmed in C# that allows you to earn RP in a loop. The operation is quite simple, when it is activated, the RP multiplier will be set to a value of 500 and every second, you will have one then zero stars which will earn you RP.
 ## COMMON PROBLEMS
