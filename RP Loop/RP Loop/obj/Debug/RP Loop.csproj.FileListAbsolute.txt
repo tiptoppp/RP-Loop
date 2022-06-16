@@ -1,0 +1,2 @@
+C:\Users\k4wg8\Desktop\RP Loop\RP Loop\obj\Debug\RP Loop.csproj.AssemblyReference.cache
+C:\Users\k4wg8\Desktop\RP Loop\RP Loop\obj\Debug\RP Loop.csproj.SuggestedBindingRedirects.cache
