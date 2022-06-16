@@ -9,7 +9,7 @@ The different problems I encountered during the test phase are :
  2. After activating then deactivating RP Loop, if you earn stars you will automatically lose them one second later. This is due to the loop which resets the number of stars to zero. Solution : Close RP Loop.
 
 ## DOWNLOAD (NEW)
-All versions supported:
+All versions supported: [RP Loop 1.60](https://github.com/tiptoppp/RP-Loop/releases/download/1.60A/RP.Loop.1.60.zip)
 
  - *Added AoBScan (Allows RP Loop to support all versions of GTAV and
    even future updates)*
