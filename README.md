@@ -1,3 +1,4 @@
+
 ## DESCRIPTION
 ![rploopx150](https://user-images.githubusercontent.com/105000222/173240289-8c232a22-b0e9-467e-a1c5-07154414e819.png)
 
@@ -9,12 +10,14 @@ The different problems I encountered during the test phase are :
  Solution : Switch lobby and start over.
  3. After activating then deactivating RP Loop, if you earn stars you will automatically lose them one second later. This is due to the loop which resets the number of stars to zero.
  Solution : Close RP Loop.
-## DOWNLOADS
-Rockstar Games edition :
-[RP Loop 1.60 - Rockstar Games](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60R)
 
-Steam edition :
-[RP Loop 1.60 - Steam](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60S)
+## DOWNLOAD (NEW)
+All versions supported:
+ 
+## DOWNLOADS (OLD)
+Rockstar Games edition : [RP Loop 1.60 - Rockstar Games](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60R)
+
+Steam edition : [RP Loop 1.60 - Steam](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60S)
 ## SCREENSHOT
 ![preview](https://user-images.githubusercontent.com/105000222/168490970-ecdcd309-aaeb-446b-a6ea-b19b2f3685f0.PNG)
  ## VIDEO
