@@ -1,4 +1,3 @@
-
 ## DESCRIPTION
 ![rploopx150](https://user-images.githubusercontent.com/105000222/173240289-8c232a22-b0e9-467e-a1c5-07154414e819.png)
 
@@ -13,10 +12,9 @@ The different problems I encountered during the test phase are :
 All versions supported:
 
 *• Added AoBScan (Allows RP Loop to support all versions of GTAV and even future updates)
-
 • Added top left corner transparent button to exit RP Loop (Size: 10; 10)
-
 • Removed pointers use (It avoids many updates)*
+ 
 ## DOWNLOADS (OLD)
 Rockstar Games edition : [RP Loop 1.60 - Rockstar Games](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60R)
 
