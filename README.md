@@ -8,7 +8,7 @@ The different problems I encountered during the test phase are :
  1. The number of stars alternates well between one and zero but no RP is earned.
  Solution : Switch lobby and start over.
  3. After activating then deactivating RP Loop, if you earn stars you will automatically lose them one second later. This is due to the loop which resets the number of stars to zero.
- Solution : I have not found a solution to this problem for the moment but it can be solved by changing of lobby.
+ Solution : Close RP Loop.
 ## DOWNLOADS
 Rockstar Games edition :
 [RP Loop 1.60 - Rockstar Games](https://github.com/tiptoppp/RP-Loop/releases/tag/1.60R)
