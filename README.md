@@ -7,8 +7,10 @@ RP Loop is a small tool programmed in C# that allows you to earn RP in a loop. T
 The different problems I encountered during the test phase are :
 
  1. The number of stars alternates well between one and zero but no RP is earned.
+
 Solution : Switch lobby and start over.
  2. After activating then deactivating RP Loop, if you earn stars you will automatically lose them one second later. This is due to the loop which resets the number of stars to zero.
+
 Solution : Close RP Loop.
 
 ## DOWNLOAD (NEW)
