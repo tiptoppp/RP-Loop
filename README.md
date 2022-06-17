@@ -27,7 +27,7 @@ The different problems I encountered during the test phase are :
 ![preview](https://user-images.githubusercontent.com/105000222/168490970-ecdcd309-aaeb-446b-a6ea-b19b2f3685f0.PNG)
 
  ## VIDEO
-[![](https://user-images.githubusercontent.com/105000222/173208230-2f217aad-378a-49f1-a075-c0b3c10826d2.png)](https://www.youtube.com/watch?v=otCpY1jHV6I)
+[![](https://i.ytimg.com/vi_webp/bg1k_lEbkhA/maxresdefault.webp)](https://www.youtube.com/watch?v=bg1k_lEbkhA)
 
 ## CREDITS
 Thanks to [dr-NHA](https://github.com/dr-NHA) for his help.
