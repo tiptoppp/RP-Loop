@@ -6,6 +6,7 @@ RP Loop is a small tool programmed in C# that allows you to earn RP in a loop. T
 ## DOWNLOAD (NEW)
 All versions supported: [RP Loop 1.60](https://github.com/tiptoppp/RP-Loop/releases/download/1.60A1/RP.Loop.1.60.zip)
 
+ - *Fixed UI no longer freezes when RP Loop is enabled*
  - *Added AoBScan (Allows RP Loop to support all versions of GTAV and
    even future updates)*
  - *Added top left corner transparent button to exit RP Loop (Size: 10;
