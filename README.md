@@ -4,7 +4,7 @@
 RP Loop is a small tool programmed in C# that allows you to earn RP in a loop. The operation is quite simple, when it is activated, the RP multiplier will be set to a value of 500 and every second, you will have one then zero stars which will earn you RP.
 
 ## DOWNLOAD (NEW)
-All versions supported: [RP Loop 1.60](https://github.com/tiptoppp/RP-Loop/releases/download/1.60A/RP.Loop.1.60.zip)
+All versions supported: [RP Loop 1.60](https://github.com/tiptoppp/RP-Loop/releases/download/1.60A1/RP.Loop.1.60.zip)
 
  - *Added AoBScan (Allows RP Loop to support all versions of GTAV and
    even future updates)*
