@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RP Loop", "RP Loop\RP Loop.csproj", "{3CCDDCD5-74CE-45A9-984D-1EA5289BB261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CCDDCD5-74CE-45A9-984D-1EA5289BB261}.Release|x64.ActiveCfg = Release|x64
+		{3CCDDCD5-74CE-45A9-984D-1EA5289BB261}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF950342-1E0F-410C-BE5C-C7C46AF19FBD}
+	EndGlobalSection
+EndGlobal
