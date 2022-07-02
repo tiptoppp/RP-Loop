@@ -27,9 +27,9 @@ The different problems I encountered during the test phase are :
  2. After activating then deactivating RP Loop, if you earn stars you will automatically lose them one second later. This is due to the loop which resets the number of stars to zero. Solution : Close RP Loop.
 
 ## SCREENSHOT
-![preview](https://user-images.githubusercontent.com/105000222/168490970-ecdcd309-aaeb-446b-a6ea-b19b2f3685f0.PNG)
+![preview](https://user-images.githubusercontent.com/105000222/177001020-8b92661c-0a38-4add-9a99-55fbdca2761f.png)
 
- ## VIDEO
+ ## VIDEO (NOT UP TO DATE)
 [![](https://i.ytimg.com/vi_webp/bg1k_lEbkhA/maxresdefault.webp)](https://www.youtube.com/watch?v=bg1k_lEbkhA)
 
 ## CREDITS
